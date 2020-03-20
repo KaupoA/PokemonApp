@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="pokemon_list_image_description">Pokemon image</string>
+    <string name="pokemon_list_filter">Filter</string>
+    <string name="pokemon_list_settings">Settings</string>
+
+    <string name="filter_settings_by">Filter by</string>
+    <string name="filter_settings_order">Order</string>
+    <string name="filter_settings_spawn_chance">Spawn chance</string>
+    <string name="filter_settings_asc">Ascending</string>
+    <string name="filter_settings_desc">Descending</string>
+</resources>
